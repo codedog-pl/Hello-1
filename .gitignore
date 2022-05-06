@@ -8,6 +8,7 @@
 **/.vs/
 # TouchGFX generated directories
 **/generated/
+!*/TouchGFX/target/generated/
 **/TouchGFX/build/
 # Generated build files
 *.d
